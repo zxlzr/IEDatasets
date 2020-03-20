@@ -18,7 +18,7 @@ Contributed by **[Ningyu Zhang](zxlzr.github.io)**, Shumin Deng, Haiyang Yu, Hon
 |    NYT10-29     |    29   | 70,339    | Distent-supervision| NYT+Freebase |   [url](http://47.92.96.190/dataset/NYT10.rar)     |  [url](https://github.com/truthless11/HRL-RE/tree/master/data)        |    
 |    NYT11-12    |     12  |  62,648   | DS+supervised|  NYT+Freebase|   [url](http://47.92.96.190/dataset/NYT11.rar)     |  [url](https://github.com/truthless11/HRL-RE/tree/master/data)        |  
 |   NYT-manual    |    24   | 235,982  |Distent-supervision| NYT+Freebase   |   [url](http://47.92.96.190/dataset/nyt-manual.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |  
-|   NYT-Wiki    |  73    | 1,989,377 |Distent-supervision| NYT-Wikipedia-Wikidata   |   [url](http://47.92.96.190/dataset/nyt-wiki.tar.gz)     |  [url](https://github.com/zxlzr/RAN/tree/master/data/NYT-Wiki)        |  
+|   NYT-Wiki(zju)    |  73    | 1,989,377 |Distent-supervision| NYT-Wikipedia-Wikidata   |   [url](http://47.92.96.190/dataset/nyt-wiki.tar.gz)     |  [url](https://github.com/zxlzr/RAN/tree/master/data/NYT-Wiki)        |  
 |    Wiki-KBP    |    19   |  23,784  |Distent-supervision| Wikipedia+KBP+Freebase  |   [url](http://47.92.96.190/dataset/kbp.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |    
 |    PubMed-BioInfer     |   94  | 1,580 | Distent-supervision |  PubMed+NESH     | -   |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |    
 |    WebNLG     |   14    | 75,325    |  Supervised | Web |   -   |  [url](https://drive.google.com/open?id=1zISxYa-8ROe2Zv8iRc82jY9QsQrfY1Vj)        |    
@@ -109,7 +109,7 @@ Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism
 Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme
 
  
-##  NYT-Wiki    
+##  NYT-Wiki(zju)    
 
 
 Relation Adversarial Network for Low Resource Knowledge Graph Completion
@@ -168,7 +168,7 @@ K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters
 | Dataset |# Inst.|Feature|Source |Resource| Origin |  
 |---------|------:|-------:|-------:|-------:|----------| 
 |    ACE05    |   599        | Supervised| Web  |  -  |  [url](https://catalog.ldc.upenn.edu/LDC2006T06)        |      
- |    FewEvent  |    71,385      | Supervised| ACE05+_TAC-KBP17| [url](http://47.92.96.190/dataset/FewEvent.tar.gz)   |  [url](https://github.com/231sm/Low_Resource_KBP)        | 
+ |    FewEvent(zju)  |    71,385      | Supervised| ACE05+_TAC-KBP17| [url](http://47.92.96.190/dataset/FewEvent.tar.gz)   |  [url](https://github.com/231sm/Low_Resource_KBP)        | 
  |   CCKS2019_Event   |    17,815       | Supervised|  Financial Announcements  |  [url](http://47.92.96.190/dataset/ccks2019_event.tar.gz) |  [url](https://www.biendata.com/competition/ccks_2019_4/data/)        | 
  |  Doc2EDAG    |       32,040    | Supervised| Financial Announcements | [url](http://47.92.96.190/dataset/doc2edag.tar.gz) |    [url](https://github.com/dolphin-zs/Doc2EDAG)        | 
 
@@ -176,7 +176,7 @@ K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters
 
 too many papers
 
-## FewEvent
+## FewEvent(zju)
 
 Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection
 
