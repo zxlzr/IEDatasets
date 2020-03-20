@@ -127,9 +127,7 @@ CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases.
 Indirect Supervision for Relation Extraction Using Question-Answer Pairs
 
 
-    
-## TAC-KBP      
-
+ 
  
 
 
