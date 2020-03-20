@@ -1,7 +1,7 @@
 # IE Dataset Zoo
 Information extraction dataset zoo.
 
-Contributed by **[Ningyu Zhang](zxlzr.github.io)**, Shumin Deng, Haiyang Yu, Hongbin Ye.
+Contributed by **[Ningyu Zhang](https://zxlzr.github.io/)**, Shumin Deng, Haiyang Yu, Hongbin Ye.
 
 
 # Relation Extraction
