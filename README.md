@@ -6,7 +6,7 @@ Contributed by **[Ningyu Zhang](zxlzr.github.io)**, Shumin Deng, Haiyang Yu, Hon
 
 # Relation Extraction
 
-| Dataset | # Rel.|# Inst.|Feature|Source |Resource| Origin |  
+| Dataset | #Rel.|#Inst.|Feature|Source |Resource| Origin |  
 |---------|------:|------:|-------:|-------:|-------:|----------| 
 |    Fewrel    |    100   | 44,800      | Supervised| Wikipedia+Wikidata |  [url](http://47.92.96.190/dataset/fewrel.tar.gz)     |  [url](http://www.zhuhao.me/fewrel/)        |      
 |    TACRED    |    42   | 68,120    | Supervised |Newswire+web  |  -    |  [url](https://nlp.stanford.edu/projects/tacred/)        |  
