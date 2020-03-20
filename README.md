@@ -181,7 +181,7 @@ too many papers
 Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection
 
  
-## DEE
+## Doc2EDAG
 
 Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction
 
