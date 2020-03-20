@@ -171,8 +171,8 @@ K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters
 |---------|------:|-------:|-------:|-------:|----------| 
 |    ACE05    |   599        | Supervised|   |  -  |  [url](https://catalog.ldc.upenn.edu/LDC2006T06)        |      
  |    FewEvent  |    71,385      | Supervised| | [url](http://47.92.96.190/dataset/FewEvent.tar.gz)   |  [url](https://github.com/231sm/Low_Resource_KBP)        | 
- |   CCKS2019_Event   |    17,815       | Supervised|   |  [url(]http://47.92.96.190/dataset/ccks2019_event.tar.gz) |  [url](https://www.biendata.com/competition/ccks_2019_4/data/)        | 
- |  Doc2EDAG    |       32,040    | Supervised| Financial Announcements  [url](http://47.92.96.190/dataset/doc2edag.tar.gz) |  -  |  [url](https://github.com/dolphin-zs/Doc2EDAG)        | 
+ |   CCKS2019_Event   |    17,815       | Supervised|   |  [url](http://47.92.96.190/dataset/ccks2019_event.tar.gz) |  [url](https://www.biendata.com/competition/ccks_2019_4/data/)        | 
+ |  Doc2EDAG    |       32,040    | Supervised| Financial Announcements | [url](http://47.92.96.190/dataset/doc2edag.tar.gz) |   |  [url](https://github.com/dolphin-zs/Doc2EDAG)        | 
 
 ## ACE05
 
