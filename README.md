@@ -24,7 +24,7 @@ Information extraction dataset zoo.
 |    KBP37     |    37  |  15,916   | Supervised  | Web |   [url](http://47.92.96.190/dataset/ske.tar.gz)     |  [url](https://github.com/zhangdongxu/kbp37)        |  
 |    T-REx    |   642   |  6.3M  | Distent-supervision   | Wikipedia+Wikidata |  -   |  [url](https://hadyelsahar.github.io/t-rex/)        |  
 |   Google-RE    |   5   |  59,576  | Supervised | Wikipedia |  -    |  [url](https://github.com/google-research-datasets/relation-extraction-corpus)        |  
-|   ADE   |    3  | 23,516   | Supervised|  |   [url](http://47.92.96.190/dataset/ade.tar.gz     |  [url](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)        |  
+|   ADE   |    3  | 23,516   | Supervised|  |   [url](http://47.92.96.190/dataset/ade.tar.gz)     |  [url](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)        |  
 
 Other Datasets
 
