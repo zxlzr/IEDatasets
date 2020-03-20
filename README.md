@@ -6,25 +6,25 @@ Information extraction dataset zoo.
 | Dataset | # Rel.|# Inst.|Feature|Source |Resource| Origin |  
 |---------|------:|------:|-------:|-------:|-------:|----------| 
 |    Fewrel    |    100   | 44,800      | Supervised| Wikipedia+Wikidata |  [url](http://47.92.96.190/dataset/fewrel.tar.gz)     |  [url](http://www.zhuhao.me/fewrel/)        |      
-|    TACRED    |    42   | 68,120    |  |  |  -    |  [url](https://nlp.stanford.edu/projects/tacred/)        |  
+|    TACRED    |    42   | 68,120    | Supervised |Newswire+web  |  -    |  [url](https://nlp.stanford.edu/projects/tacred/)        |  
 |    Semeval     |   19    |   8,000    | Supervised|Web|  [url](http://47.92.96.190/dataset/semeval.tar.gz)     |  [url](https://www.kaggle.com/drtoshi/semeval2010-task-8-dataset#__sid=js0)        |    
 |    Wikidata     |    352   | 495,883      | Distent-supervision|Wikipedia+Wikidata|  [url](http://47.92.96.190/dataset/wikidata.tar.gz)     |  [url](https://public.ukp.informatik.tu-darmstadt.de/UKP_Webpage/DATA/WikipediaWikidataDistantSupervisionAnnotations.v1.0.zip)        |    
 |    NYT10(tsinghua)     |   53    |   522,043    |Distent-supervision | NYT+Freebase|  [url](http://47.92.96.190/dataset/nyt10.tar.gz)     |  [url](https://github.com/thunlp/OpenNRE/)        |    
 |    NYT10-large(tsinghua)     |   53    |   570,088   |Distent-supervision | NYT+Freebase|  [url](http://47.92.96.190/dataset/nyt10-large.tar.gz)     |  [url](https://github.com/thunlp/HNRE)      
-|    NYT-Wikidata     |       |     | Distent-supervision| NYT-Wikidata |   [url](http://47.92.96.190/dataset/nyt-wikidata.tar.gz)     |  [url](https://github.com/thunlp/PathNRE)        |   
-|    NYT10-29     |    29   | 70,339    ||  |   [url]()     |  [url]()        |    
-|    NYT11-12    |     12  |  62,648   ||  |   [url]()     |  [url]()        |  
-|   NYT-manual    |    24   | 235,982  |Distent-supervision| NYT-Freebase   |   [url](http://47.92.96.190/dataset/nyt-manual.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |  
-|   NYT-Wiki    |    24   | 235,982  |Distent-supervision| NYT-Wikipedia-Wikidata   |   [url](http://47.92.96.190/dataset/nyt-manual.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |  
+|    NYT-Wikidata     |       |     | Distent-supervision| NYT+Wikidata |   [url](http://47.92.96.190/dataset/nyt-wikidata.tar.gz)     |  [url](https://github.com/thunlp/PathNRE)        |   
+|    NYT10-29     |    29   | 70,339    | Distent-supervision| NYT+Freebase |   [url](http://47.92.96.190/dataset/NYT10.rar)     |  [url](https://github.com/truthless11/HRL-RE/tree/master/data)        |    
+|    NYT11-12    |     12  |  62,648   | Distent-supervision+supervised(test)|  NYT+Freebase|   [url](http://47.92.96.190/dataset/NYT11.rar)     |  [url](https://github.com/truthless11/HRL-RE/tree/master/data)        |  
+|   NYT-manual    |    24   | 235,982  |Distent-supervision| NYT+Freebase   |   [url](http://47.92.96.190/dataset/nyt-manual.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |  
+|   NYT-Wiki    |  73    | 1,989,377 |Distent-supervision| NYT-Wikipedia-Wikidata   |   [url](http://47.92.96.190/dataset/nyt-wiki.tar.gz)     |  [url](https://github.com/zxlzr/RAN/tree/master/data/NYT-Wiki)        |  
 |    Wiki-KBP    |    19   |  23,784  |Distent-supervision| Wikipedia+KBP+Freebase  |   [url](http://47.92.96.190/dataset/kbp.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |    
 |  TAC-KBP     |      |    ||  |   [url]()     |  [url]()        |  
 |    PubMed-BioInfer     |   94  | 1,580 | Distent-supervision |  PubMed+NESH     |   [url](http://47.92.96.190/dataset/bioinfer.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |    
-|    WebNLG     |   14    | 75,325    |  Supervised | Web |   [url]()     |  [url](https://drive.google.com/open?id=1zISxYa-8ROe2Zv8iRc82jY9QsQrfY1Vj)        |    
-|    SKE     |    50   |     | Supervised | Web  |   [url](http://47.92.96.190/dataset/ske.tar.gz)     |  [url]()        |    
+|    WebNLG     |   14    | 75,325    |  Supervised | Web |   -   |  [url](https://drive.google.com/open?id=1zISxYa-8ROe2Zv8iRc82jY9QsQrfY1Vj)        |    
+|    SKE     |    50   |     | Supervised | Web  |   [url](http://47.92.96.190/dataset/ske.tar.gz)     |  [url](https://ai.baidu.com/broad/download?dataset=sked)        |    
 |    KBP37     |    37  |  15,916   | Supervised  | Web |   [url](http://47.92.96.190/dataset/ske.tar.gz)     |  [url](https://github.com/zhangdongxu/kbp37)        |  
-|    T-REx    |   642   |    | Distent-supervision   | Wikipedia+Wikidata |   [url]()     |  [url](https://hadyelsahar.github.io/t-rex/)        |  
-|   Google-RE    |      |    ||  |   [url]()     |  [url]()        |  
-|   ADE   |      |    ||  |   [url]()     |  [url]()        |  
+|    T-REx    |   642   |  6.3M  | Distent-supervision   | Wikipedia+Wikidata |  -   |  [url](https://hadyelsahar.github.io/t-rex/)        |  
+|   Google-RE    |   5   |  59,576  | Supervised | Wikipedia |  -    |  [url](https://github.com/google-research-datasets/relation-extraction-corpus)        |  
+|   ADE   |    3  | 23,516   | Supervised|  |   [url](http://47.92.96.190/dataset/ade.tar.gz     |  [url](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)        |  
 
 Other Datasets
 
@@ -61,7 +61,9 @@ Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction
 
 ## NYT10(tsinghua) 
 
+Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks
 
+Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction
 
 
 ## NYT10-large (tsinghua)
@@ -82,7 +84,15 @@ Incorporating Relation Paths in Neural Relation Extraction EMNLP2017
    
 ## NYT10-29     
 
+A Hierarchical Framework for Relation Extraction with Reinforcement Learning
+
+Joint Extraction of Entities and Relations with a Hierarchical Multi-task Tagging Model
+
 ## NYT11-12    
+
+A Hierarchical Framework for Relation Extraction with Reinforcement Learning
+
+Joint Extraction of Entities and Relations with a Hierarchical Multi-task Tagging Model
 
 ## NYT-manual
 
@@ -100,7 +110,7 @@ Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme
 ##  NYT-Wiki    
 
 
-
+Relation Adversarial Network for Low Resource Knowledge Graph Completion
 
 
 
@@ -139,7 +149,7 @@ MrMep: joint extraction of multiple relations and multiple entity pairs based on
 
 Matching the Blanks : Distributional Similarity for Relation Learning ACL2019
 
-Relation clas- sification via recurrent neural network
+Relation classification via recurrent neural network
 
 
 
@@ -149,33 +159,31 @@ T-Rex : A Large Scale Alignment of Natural Language with Knowledge Base Triples
 
 K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters
 
-## Google-RE
+ 
 
-
-## ADE
-
-
+ 
 # Event Extraction
 
 
-| Dataset | # Rel.|# Inst.|Feature|Source |Resource| Origin |  
-|---------|------:|------:|-------:|-------:|-------:|----------| 
-|    ACE05    |      |      | Supervised|   |  -  |  [url]()        |      
- |    FewEvent  |      |      | Supervised| |  -  |  [url]()        | 
- |     TAC-KBP  |      |      | Supervised|   |  -  |  [url]()        | 
- |   CCKS2019_Event   |      |      | Supervised|   |  -  |  [url]()        | 
- |  DEE    |      |      | Supervised| |  -  |  [url]()        | 
+| Dataset |# Inst.|Feature|Source |Resource| Origin |  
+|---------|------:|-------:|-------:|-------:|----------| 
+|    ACE05    |   599        | Supervised|   |  -  |  [url](https://catalog.ldc.upenn.edu/LDC2006T06)        |      
+ |    FewEvent  |    71,385      | Supervised| | [url](http://47.92.96.190/dataset/FewEvent.tar.gz)   |  [url](https://github.com/231sm/Low_Resource_KBP)        | 
+ |   CCKS2019_Event   |    17,815       | Supervised|   |  http://47.92.96.190/dataset/ccks2019_event.tar.gz |  [url](https://www.biendata.com/competition/ccks_2019_4/data/)        | 
+ |  Doc2EDAG    |       32,040    | Supervised| Financial Announcements  [url](http://47.92.96.190/dataset/doc2edag.tar.gz) |  -  |  [url](https://github.com/dolphin-zs/Doc2EDAG)        | 
 
 ## ACE05
 
+too many papers
+
 ## FewEvent
 
-## CCKS2019_Event
+Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection
 
-## TAC-KBP
-
+ 
 ## DEE
 
+Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction
 
 
 
