@@ -14,7 +14,7 @@ Contributed by **[Ningyu Zhang](zxlzr.github.io)**, Shumin Deng, Haiyang Yu, Hon
 |    Wikidata     |    352   | 495,883      | Distent-supervision|Wikipedia+Wikidata|  [url](http://47.92.96.190/dataset/wikidata.tar.gz)     |  [url](https://public.ukp.informatik.tu-darmstadt.de/UKP_Webpage/DATA/WikipediaWikidataDistantSupervisionAnnotations.v1.0.zip)        |    
 |    NYT10(tsinghua)     |   53    |   522,043    |Distent-supervision | NYT+Freebase|  [url](http://47.92.96.190/dataset/nyt10.tar.gz)     |  [url](https://github.com/thunlp/OpenNRE/)        |    
 |    NYT10-large(tsinghua)     |   53    |   570,088   |Distent-supervision | NYT+Freebase|  [url](http://47.92.96.190/dataset/nyt10-large.tar.gz)     |  [url](https://github.com/thunlp/HNRE)      
-|    NYT-Wikidata     |       |     | Distent-supervision| NYT+Wikidata |   [url](http://47.92.96.190/dataset/nyt-wikidata.tar.gz)     |  [url](https://github.com/thunlp/PathNRE)        |   
+|    NYT-Wikidata     |       |     | Distent-supervision| NYT+Wikidata |   [url](http://47.92.96.190/dataset/nyt-wikidata.zip)     |  [url](https://github.com/thunlp/PathNRE)        |   
 |    NYT10-29     |    29   | 70,339    | Distent-supervision| NYT+Freebase |   [url](http://47.92.96.190/dataset/NYT10.rar)     |  [url](https://github.com/truthless11/HRL-RE/tree/master/data)        |    
 |    NYT11-12    |     12  |  62,648   | DS+supervised|  NYT+Freebase|   [url](http://47.92.96.190/dataset/NYT11.rar)     |  [url](https://github.com/truthless11/HRL-RE/tree/master/data)        |  
 |   NYT-manual    |    24   | 235,982  |Distent-supervision| NYT+Freebase   |   [url](http://47.92.96.190/dataset/nyt-manual.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |  
