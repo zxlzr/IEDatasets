@@ -22,7 +22,7 @@ Contributed by **[Ningyu Zhang](zxlzr.github.io)**, Shumin Deng, Haiyang Yu, Hon
 |    Wiki-KBP    |    19   |  23,784  |Distent-supervision| Wikipedia+KBP+Freebase  |   [url](http://47.92.96.190/dataset/kbp.tar.gz)     |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |    
 |    PubMed-BioInfer     |   94  | 1,580 | Distent-supervision |  PubMed+NESH     | -   |  [url](https://github.com/INK-USC/USC-DS-RelationExtraction)        |    
 |    WebNLG     |   14    | 75,325    |  Supervised | Web |   -   |  [url](https://drive.google.com/open?id=1zISxYa-8ROe2Zv8iRc82jY9QsQrfY1Vj)        |    
-|    SKE     |    50   |     | Supervised | Web  |   [url](http://47.92.96.190/dataset/ske.tar.gz)     |  [url](https://ai.baidu.com/broad/download?dataset=sked)        |    
+|    SKE     |    50   |   173,108  | Supervised | Web  |   [url](http://47.92.96.190/dataset/ske.tar.gz)     |  [url](https://ai.baidu.com/broad/download?dataset=sked)        |    
 |    KBP37     |    37  |  15,916   | Supervised  | Web |   [url](http://47.92.96.190/dataset/ske.tar.gz)     |  [url](https://github.com/zhangdongxu/kbp37)        |  
 |    T-REx    |   642   |  6.3M  | Distent-supervision   | Wikipedia+Wikidata |  -   |  [url](https://hadyelsahar.github.io/t-rex/)        |  
 |   Google-RE    |   5   |  59,576  | Supervised | Wikipedia |  -    |  [url](https://github.com/google-research-datasets/relation-extraction-corpus)        |  
