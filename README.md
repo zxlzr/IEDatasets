@@ -1,9 +1,6 @@
 # IE Dataset Zoo
 Information extraction dataset zoo.
 
-Contributed by **[Ningyu Zhang](https://zxlzr.github.io/)**, Shumin Deng, Haiyang Yu, Hongbin Ye.
-
-
 # Relation Extraction
 
 | Dataset | #Rel.|#Inst.|Feature|Source |Resource| Origin |  
@@ -184,7 +181,6 @@ Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event 
 ## Doc2EDAG
 
 Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction
-
 
 
 
